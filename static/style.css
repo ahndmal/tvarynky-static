@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@300&family=Roboto+Condensed&display=swap");
+
+body {
+  font-family: "Noto Sans Mono", monospace;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  background-color: rgb(179, 202, 29);
+  font-size: 1.8rem;
+}
+
+.header-elem {
+  margin: 5px;
+  padding: 5px;
+}
+
+.root {
+  margin: 20px;
+}
+
+.main {
+  margin: 20px;
+  font-size: 2rem;
+  /* background-image: url("public/dogs-log.jpg"); */
+  /* opacity: 1; */
+
+  /* background-image: url("https://instagram.fhrk10-1.fna.fbcdn.net/v/t51.2885-15/313215832_420709816734788_4997728792589247242_n.jpg?stp=dst-jpg_e35_p720x720&_nc_ht=instagram.fhrk10-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=leBejsWtwCMAX8oBYcw&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjk1OTcwNzk4MDAzMjIzMjAzMg%3D%3D.2-ccb7-5&oh=00_AfBHlRj6bo4K_YrrOzXlKFMHvi1Va6bv6QueCRUiZhxWLw&oe=63618E4E&_nc_sid=30a2ef"); */
+}
+
+.card {
+  /* card item */
+  width: 300px;
+  height: 50px;
+  margin: 10px;
+  padding: 10px;
+  /* border: 1px solid darkblue; */
+  /* border-radius: 15px; */
+  /* background-color: rgb(115, 148, 181); */
+}
+
+.cards-main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.demo-wrap {
+  overflow: hidden;
+  position: relative;
+}
+
+.demo-bg {
+  opacity: 0.3;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+.demo-content {
+  position: relative;
+}
