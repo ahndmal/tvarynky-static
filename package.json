@@ -1,0 +1,20 @@
+{
+  "name": "tvarynky-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "static/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiMaliuta/tvarynky-static.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiMaliuta/tvarynky-static/issues"
+  },
+  "homepage": "https://github.com/AndriiMaliuta/tvarynky-static#readme"
+}
