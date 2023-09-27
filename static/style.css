@@ -25,10 +25,6 @@ body {
 .main {
   margin: 20px;
   font-size: 2rem;
-  /* background-image: url("public/dogs-log.jpg"); */
-  /* opacity: 1; */
-
-  /* background-image: url("https://instagram.fhrk10-1.fna.fbcdn.net/v/t51.2885-15/313215832_420709816734788_4997728792589247242_n.jpg?stp=dst-jpg_e35_p720x720&_nc_ht=instagram.fhrk10-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=leBejsWtwCMAX8oBYcw&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjk1OTcwNzk4MDAzMjIzMjAzMg%3D%3D.2-ccb7-5&oh=00_AfBHlRj6bo4K_YrrOzXlKFMHvi1Va6bv6QueCRUiZhxWLw&oe=63618E4E&_nc_sid=30a2ef"); */
 }
 
 .card {
